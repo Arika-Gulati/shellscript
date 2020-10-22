@@ -2,6 +2,7 @@
 a=8
 b=55
 sum=$($a+$b)
+substraction=$($a-$b)
 echo $sum
 $sum echo "hello I am changing"
 echo "arika here"
