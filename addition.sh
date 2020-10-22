@@ -1,8 +1,8 @@
 #!/bin/bash -x
-a=1
-b=13
+#a=5
+#b=19
 sum=$($a+$b)
-echo $sum
+#echo $sum
 echo "hello I am changing"
 echo "hi"
 echo "arika here"
